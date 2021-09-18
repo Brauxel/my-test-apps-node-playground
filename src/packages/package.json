@@ -1,0 +1,19 @@
+{
+  "name": "node-playground-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brauxel/my-test-apps-node-playground.git"
+  },
+  "author": "Aakash Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brauxel/my-test-apps-node-playground/issues"
+  },
+  "homepage": "https://github.com/Brauxel/my-test-apps-node-playground#readme"
+}
